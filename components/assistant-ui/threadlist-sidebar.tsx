@@ -44,7 +44,7 @@ export function ThreadListSidebar({
           <SidebarMenuItem>
             <SidebarMenuButton size="lg" asChild>
               <a
-                href="https://github.com/ChitkulLakshya/Chat_Pro.git"
+                href="https://github.com/eesha264/chef_bot"
                 target="_blank"
                 rel="noopener noreferrer"
               >
